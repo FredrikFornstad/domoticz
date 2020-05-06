@@ -404,11 +404,15 @@
     <None Include="..\www\js\domoticzblocks_messages_en.js" />
     <None Include="..\www\js\domoticzdevices.js" />
     <None Include="..\www\js\en_compressed.js.gz" />
-    <None Include="..\www\js\export-csv.js.gz" />
     <None Include="..\www\js\FileSaver.js.gz" />
-    <None Include="..\www\js\highcharts-more.js.gz" />
+    <None Include="..\www\js\highcharts\highcharts-more.js.gz" />
+    <None Include="..\www\js\highcharts\highcharts.js.gz" />
+    <None Include="..\www\js\highcharts\modules\dependency-wheel.js.gz" />
+    <None Include="..\www\js\highcharts\modules\export-data.js.gz" />
+    <None Include="..\www\js\highcharts\modules\exporting.js.gz" />
+    <None Include="..\www\js\highcharts\modules\sankey.js.gz" />
+    <None Include="..\www\js\highcharts\modules\xrange.js.gz" />
     <None Include="..\www\js\highcharts-ng.min.js.gz" />
-    <None Include="..\www\js\highcharts.js.gz" />
     <None Include="..\www\js\html5shiv.js.gz" />
     <None Include="..\www\js\i18next-1.8.0.min.js.gz" />
     <None Include="..\www\js\jquery-1.12.0.min.js.gz" />
@@ -422,7 +426,6 @@
     <None Include="..\www\js\jquery.ui.touch-punch.min.js.gz" />
     <None Include="..\www\js\jquery.uix.multiselect.min.js.gz" />
     <None Include="..\www\js\md5.js.gz" />
-    <None Include="..\www\js\modules\exporting.js.gz" />
     <None Include="..\www\js\ng-grid-flexible-height.js.gz" />
     <None Include="..\www\js\ng-grid.min.js.gz" />
     <None Include="..\www\js\ngDraggable.js.gz" />

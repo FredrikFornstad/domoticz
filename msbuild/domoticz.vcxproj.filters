@@ -812,17 +812,29 @@
     <None Include="..\www\js\en_compressed.js.gz">
       <Filter>www\js</Filter>
     </None>
-    <None Include="..\www\js\export-csv.js.gz">
-      <Filter>www\js</Filter>
-    </None>
     <None Include="..\www\js\FileSaver.js.gz">
       <Filter>www\js</Filter>
     </None>
-    <None Include="..\www\js\highcharts.js.gz">
-      <Filter>www\js</Filter>
+    <None Include="..\www\js\highcharts\highcharts.js.gz">
+      <Filter>www\js\highcharts</Filter>
     </None>
-    <None Include="..\www\js\highcharts-more.js.gz">
-      <Filter>www\js</Filter>
+    <None Include="..\www\js\highcharts\highcharts-more.js.gz">
+      <Filter>www\js\highcharts</Filter>
+    </None>
+    <None Include="..\www\js\highcharts\modules\dependency-wheel.js.gz">
+      <Filter>www\js\highcharts\module</Filter>
+    </None>
+    <None Include="..\www\js\highcharts\modules\export-data.js.gz">
+      <Filter>www\js\highcharts\module</Filter>
+    </None>
+    <None Include="..\www\js\highcharts\modules\exporting.js.gz">
+      <Filter>www\js\highcharts\module</Filter>
+    </None>
+    <None Include="..\www\js\highcharts\modules\sankey.js.gz">
+      <Filter>www\js\highcharts\module</Filter>
+    </None>
+    <None Include="..\www\js\highcharts\modules\xrange.js.gz">
+      <Filter>www\js\highcharts\module</Filter>
     </None>
     <None Include="..\www\js\highcharts-ng.min.js.gz">
       <Filter>www\js</Filter>
